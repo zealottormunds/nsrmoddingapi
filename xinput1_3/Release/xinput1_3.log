@@ -1,0 +1,82 @@
+﻿  API_Console.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(163): warning C4018: '<': no coinciden signed/unsigned
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(175): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(186): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(198): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(202): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(214): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(227): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(231): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(251): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(255): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(259): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(263): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(267): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\api_console.cpp(283): warning C4018: '<': no coinciden signed/unsigned
+  HookFunctions.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+  ccMain.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(31): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: vea la declaración de 'freopen'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(32): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(243): note: vea la declaración de 'freopen'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(98): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: vea la declaración de 'strcat'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(101): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: vea la declaración de 'strcpy'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(103): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: vea la declaración de 'strcat'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(108): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(90): note: vea la declaración de 'strcat'
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(174): warning C4018: '<': no coinciden signed/unsigned
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(184): warning C4018: '<': no coinciden signed/unsigned
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccmain.cpp(120): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: vea la declaración de 'strncpy'
+  ccPlayer.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.cpp(108): warning C4805: '!=': combinación no segura del tipo 'bool' y el tipo 'int' en la operación
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.cpp(198): warning C4244: '=': conversión de 'int' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+  ccPlayerMain_2ITC.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayermain_2itc.cpp(101): warning C4552: "-": el resultado de la expresión no se usa
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayermain_2itc.cpp(133): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayermain_2itc.cpp(134): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayermain_2itc.cpp(135): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayermain_2itc.cpp(136): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayermain_2itc.cpp(166): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayermain_2itc.cpp(167): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  ccPlayerMain_2TOB.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+  ccPlayerMain_3DNZ.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+  ccPlayerMain_3MNT.cpp
+c:\program files (x86)\steam\steamapps\common\uns gev\xinput1_3\xinput1_3\ccplayer.h(100): warning C4091: 'typedef ': se ha omitido a la izquierda de 'playerInfo' cuando no hay ninguna variable declarada
+     Creando biblioteca C:\Program Files (x86)\Steam\steamapps\common\UNS Gev\xinput1_3\Release\xinput1_3.lib y objeto C:\Program Files (x86)\Steam\steamapps\common\UNS Gev\xinput1_3\Release\xinput1_3.exp
+  Generando código
+  3 of 1089 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  xinput1_3.vcxproj -> C:\Program Files (x86)\Steam\steamapps\common\UNS Gev\xinput1_3\Release\xinput1_3.dll
